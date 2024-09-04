@@ -101,7 +101,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Contributors**:  
 - Vincent Laufer, CGO Open Chrmatin Group, LLC. Email: laufer@openchromatin.com
-
----
-
-Let me know if you need any further adjustments or changes!
