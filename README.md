@@ -1,7 +1,3 @@
-Certainly! Here's the **`README.md`** file rewritten using proper Markdown syntax:
-
----
-
 # ClinVar Variant Summarization Tool
 
 This repository provides a tool to synthesize clinical summaries of genetic variants from the **ClinVar** database. The tool automatically processes genetic variant data, identifies conflicting clinical interpretations, and extracts PubMed citations from ClinVar’s flat files. Using **BioBERT** embeddings for advanced querying, the tool can generate variant summaries for a given gene and clinical condition.
