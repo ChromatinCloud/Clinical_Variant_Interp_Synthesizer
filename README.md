@@ -111,4 +111,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 **Contributors**:  
-- Vincent Laufer, CGO Open Chrmatin Group, LLC. Email: laufer@openchromatin.com
+- Vincent Laufer, CGO Open Chromatin Group, LLC - a topologically associated domain of chromatin cloud. Email: laufer@openchromatin.com
