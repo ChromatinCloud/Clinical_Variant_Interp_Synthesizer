@@ -100,6 +100,7 @@ Once you have everything set up, you can run the script and query the variant da
 
 ## Future Improvements
 
+- **Prompt Engineering**, or automated optimization of prompt refinement (e.g. automated with DSPy).
 - **Extend Variant Selection**: Modify the script to allow users to select more variants or filter them based on specific criteria.
 - **Enhanced Querying**: Integrate more advanced NLP techniques for better parsing of user queries.
 - **Support for Additional Flat Files**: Extend support for more fields from the ClinVar dataset, such as inheritance modes or population frequencies.
