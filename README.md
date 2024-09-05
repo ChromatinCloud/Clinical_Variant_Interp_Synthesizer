@@ -107,7 +107,7 @@ Once you have everything set up, you can run the script and query the variant da
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the Gnu Affero General Public License, v3. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
